@@ -7,7 +7,7 @@ notebook_2: Train a multiclass bayes for predicting the score based on the revie
 notebook_3: Train another bayes but with binary classes as target. if score was 4 or 5 then comment was positive. if it was lower then it was negative. scores increase a lot.\
 notebook_4 and notebook_5: Used the binary model from notebook_3 to predict if new self-made reviews are positive or negative. Notebook_4 is like hosting and notebook_5 would be the "client".\
 
-Original dataset that i transform into data.csv in notebook_1 is not in repository since it was quite big. Data.rar is the data after notebook_1.\
+Original dataset that i transform into data.csv in notebook_1 is not in repository since it was quite big.\
 The model_binary.pkl is the model trained in notebook_3
 
 
